@@ -1,13 +1,12 @@
 {
-    "name": "Website Tang",
-    "version": "0.2",
+    "name": "Dark Side",
+    "version": "1.5",
     "description": "An extension that helps you to change any website to dark mode and change the font of any website to your desired font",
     "permissions": [
         "declarativeContent",
         "tabs",
         "storage",
-        "http://*/",
-        "https://*/"
+        "activeTab"
     ],
     "background": {
         "scripts": [
